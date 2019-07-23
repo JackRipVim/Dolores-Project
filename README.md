@@ -1,2 +1,4 @@
 # Dolores-Project
-An AI name Dolores, Small project to try to see what kind of AI we can create today!
+
+This is a startup project for AI. To see what the AI can do in doday!
+In this project, we search what the AI is, can it bad or good?
